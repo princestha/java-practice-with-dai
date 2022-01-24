@@ -1,6 +1,6 @@
 package com.java.practice.controller;
 
-import com.java.practice.controller.services.YouServices;
+import com.java.practice.services.YouServices;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

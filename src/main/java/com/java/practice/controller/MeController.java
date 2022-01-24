@@ -1,6 +1,6 @@
 package com.java.practice.controller;
 
-import com.java.practice.controller.services.MeServices;
+import com.java.practice.services.MeServices;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

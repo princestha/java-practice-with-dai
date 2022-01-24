@@ -1,6 +1,6 @@
-package com.java.practice.controller.services.impl;
+package com.java.practice.services.impl;
 
-import com.java.practice.controller.services.MeServices;
+import com.java.practice.services.MeServices;
 import org.springframework.stereotype.Service;
 
 @Service
